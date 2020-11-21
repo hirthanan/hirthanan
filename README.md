@@ -10,7 +10,7 @@
 <br>
 
 <p>I'm Hirthanan, a recent Computer Science graduate from the University of Waterloo.</p>
-<p>This February, I'll be joining Google as a Software Engineer.</p>
+<p>This February, I'll be joining <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> as a Software Engineer.</p>
 
 <br>
 
@@ -21,6 +21,8 @@
 <li>💬 Ask me about software engineering, university, interviewing, and basketball</li>
 <li>⚡ Fun fact: I'm suprisingly athletic for a Software Engineer</li>
 </ul>
+
+<br>
 
 **Languages and Tools:**
 <br>
