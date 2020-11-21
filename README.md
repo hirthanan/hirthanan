@@ -9,8 +9,8 @@
 
 <br>
 
-<p>I'm Hirthanan, a recent Computer Science graduate from the University of Waterloo.</p>
-<p>This February, I'll be joining <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google/google.png"> as a Software Engineer.</p>
+<p>I'm <b>Hirthanan</b>, a recent Computer Science graduate from the University of Waterloo.</p>
+<p>This February, I'll be joining Google as a Software Engineer.</p>
 
 <br>
 
