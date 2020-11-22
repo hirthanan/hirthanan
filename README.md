@@ -10,7 +10,7 @@
 <br>
 
 <p>I'm <b>Hirthanan</b>, a recent Computer Science graduate from the University of Waterloo.</p>
-<p>This February, I'll be joining Google as a Software Engineer.</p>
+<p>This February, I'll be joining <span style="color:#4285F4">G</span><span style="color:#EA4335">o</span><span style="color:#FBBC05">o</span><span style="color:#4285F4">g</span><span style="color:#34A853">l<span style="color:#EA4335">e</span> as a Software Engineer.</p>
 
 <br>
 
