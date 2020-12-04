@@ -2,7 +2,7 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/hirthanan/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hirthanan/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/hirthanan.s/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://open.spotify.com/user/223ie3kp564ga4p5oy3vzs7ni?si=affLdeGsQIGWpGDcE935WQ" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/hirthanan/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/leetcode.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
