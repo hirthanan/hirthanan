@@ -10,14 +10,14 @@
 
 <br>
 
-<p>I'm <b>Hirthanan</b>, a Computer Science graduate from the University of Waterloo, currently working as a Software Engineer at <b>Google</b>.</p>
+<p>I'm <b>Hirthanan</b>, a Computer Science graduate from the University of Waterloo, working as a Software Engineer at <b>Google</b>.</p>
 
 <br>
 
 **About Me**
 <ul>
 <li>🌱 I’m currently learning about building big data pipelines, and services for distributed computing</li>
-<li>👯 I’m open to learning about start-up proposals</li>
+<li>👯 I’m open to discussing start up proposals</li>
 <li>💬 Ask me about software engineering, finance, interviewing, sports, or university</li>
 <li>⚡ Fun fact: I'm surprisingly athletic for a software engineer</li>
 </ul>
