@@ -16,10 +16,10 @@
 
 **About Me**
 <ul>
-<li>🌱 I’m currently learning about building big data pipelines, and services for distributed computing</li>
+<li>🌱 I’m interested in big data pipelines, distributed computing, building scalable systems and most recently learning about LLMs</li>
 <li>👯 I’m open to discussing start up proposals</li>
 <li>💬 Ask me about software engineering, finance, interviewing, sports, or university</li>
-<li>⚡ Fun fact: I'm surprisingly athletic for a software engineer</li>
+<li>⚡ Fun fact: I will beat you at any sport or we'll keep playing until I do :) </li>
 </ul>
 
 <br>
