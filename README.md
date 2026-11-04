@@ -1,26 +1,9 @@
-<h1>Hey 👋</h1>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hirthanan/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/hirthanan.s/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/instagram.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/223ie3kp564ga4p5oy3vzs7ni?si=affLdeGsQIGWpGDcE935WQ" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/hirthanan/" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/leetcode.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://data.typeracer.com/pit/profile?user=hirthanan" target="_blank"><img height="30" src="https://github.com/hirthanan/hirthanan/blob/master/png/typeracer.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
-<p>I'm <b>Hirthanan</b>, a Computer Science graduate from the University of Waterloo, working as a Software Engineer at <b>Google</b>.</p>
-
-<br>
-
 **About Me**
-<ul>
-<li>🌱 I’m interested in big data pipelines, distributed computing, building scalable systems and most recently learning about LLMs</li>
-<li>👯 I’m open to discussing start up proposals</li>
-<li>💬 Ask me about software engineering, finance, interviewing, sports, or university</li>
-<li>⚡ Fun fact: I will beat you at any sport or we'll keep playing until I do :) </li>
-</ul>
+I'm a software engineer at Google, building large-scale bidding and budgeting systems for Google Ads. My focus is distributed systems and data pipelines, with an emphasis on reliability and correctness in production.
+
+I'm not active on GitHub. My day-to-day work lives in Google's internal codebase, and the repositories here are older personal and university projects that I no longer maintain.
+
+**Contact:** [LinkedIn](https://www.linkedin.com/in/hirthanan/) · [Email](mailto:hirthanan.subenderan@gmail.com)
 
 <br>
 
