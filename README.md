@@ -1,5 +1,5 @@
 **About Me**
-I'm a software engineer at Google, building large-scale bidding and budgeting systems for Google Ads. My focus is distributed systems and data pipelines, with an emphasis on reliability and correctness in production.
+I'm a software engineer at Google, building large-scale bidding algorithm and optimization systems for Google Ads. My focus is distributed systems and data pipelines, with an emphasis on reliability and correctness in production.
 
 I'm not active on GitHub. My day-to-day work lives in Google's internal codebase, and the repositories here are older personal and university projects that I no longer maintain.
 
